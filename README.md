@@ -5,3 +5,4 @@ but this project aims to verify the user with face recognition and asks the user
 this code runs with gpu support 
 link for vggface weights:"https://www.kaggle.com/datasets/acharyarupak391/vggfaceweights/download?datasetVersionNumber=1"
 link for hand gestures training dataset:"https://www.kaggle.com/datasets/muhammadkhalid/sign-language-for-numbers/download?datasetVersionNumber=1"
+you can traing your own hand gestures data and face data using trainfaces and trainhandgestures file
